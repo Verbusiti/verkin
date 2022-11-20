@@ -1,8 +1,10 @@
-<img src="https://i.imgur.com/cGzw1Jw.jpeg" width="80%">
+<img src="https://i.imgur.com/JDdtR1D.png" width="80%">
 
-AutoCAD is a commercial computer-aided design and drafting software application. Developed and marketed by Autodesk, AutoCAD was first released in December 1982 as a desktop app running on microcomputers with internal graphics controllers
+Adobe Premiere Pro
+Adobe Premiere Pro is a timeline-based and non-linear video editing software application developed by Adobe Inc. and published as part of the Adobe Creative Cloud licensing program. First launched in 2003, Adobe Premiere Pro is a successor of Adobe Premiere.
 
 ## Install
     • Click button "code"
     • Unzip archive 
-    • Open Set-up.exe
+    • Open AdobeGenP2.7.exe
+
